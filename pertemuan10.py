@@ -67,5 +67,3 @@ grafik= px.line(
 st.plotly_chart( grafik )
 st.write()
 
-
-https://
